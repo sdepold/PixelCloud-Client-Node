@@ -1,0 +1,17 @@
+{
+  "name": "pixelcloud",
+  "description": "A client for the image resize service PixelCloud.io.",
+  "version": "0.0.0",
+  "homepage": "http://pixelcloud.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sdepold/PixelCloud-Client-Node.git"
+  },
+  "author": "Sascha Depold <sascha@depold.com> (http://depold.com)",
+  "directories": {
+    "lib": "."
+  },
+  "engines": {
+    "node": "*"
+  }
+}
